@@ -1,6 +1,10 @@
 # Team Task Board
 
-A responsive task management application built using React and JavaScript. It helps teams organize, track, and manage tasks through a simple Kanban-style board.
+A responsive task management application built using React and Vite.
+
+Live Demo: https://team-task-board-six-sable.vercel.app/
+
+GitHub Repository: https://github.com/Pavithra110/team-task-board
 
 ## Features
 
